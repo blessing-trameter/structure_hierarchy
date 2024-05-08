@@ -1,0 +1,246 @@
+.shortly-wrapper {
+    max-width: 1140px;
+    width: 100%;
+    margin: 0 auto;
+    background: linear-gradient(to bottom, #ffffff 37%, #f0f1f6 30%, #f0f1f6 90%);
+}
+
+.shortly-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;
+}
+
+.shortly-container .logo,
+footer .logo p,
+footer h4{
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    color: #fff;
+}
+
+.shortly-container .log-in {
+    margin-left: auto;
+}
+
+.shortly-container ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    gap: 50px;
+}
+
+.shortly-container ul li a {
+    color:#00001a;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.shortly-container ul li a:hover {
+    color:#4b406b;
+}
+
+.log-in {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+    cursor: pointer;
+ 
+}
+
+.log-in a{
+    font-size: 18px;
+    color:#00001a;
+}
+
+.log-in .sign-up {
+    width: 100px;
+    padding: 10px;
+    background: #9ad2d2;
+    color: #fff;
+    border: none;
+    outline: none;
+    text-align: center;
+    border-radius: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 60px 0px;
+}
+
+header h1 {
+    font-size: 50px;
+    white-space: wrap;
+    color: #00001a;
+    margin: 0px;
+}
+
+.bg-color {
+    background: #a8a8cd;
+    
+}
+
+header img {
+    width: 100%;
+    height: 100%;
+}
+
+header .get-started,
+.bg-blue-btn .get-started {
+    width: 150px;
+    padding: 15px;
+    color: #fff;
+    border: none;
+    outline: none;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 16px;
+}
+header .get-started {
+    background-color: #f15d51;
+}
+
+.bg-blue-btn .get-started {
+    background: #9ad2d2;
+}
+
+
+.bg-blue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    background: #4b406b;
+    height: 100px;
+    color: #000;
+    margin: 0 100px;
+    border-radius: 10px;
+}
+
+.bg-blue input {
+    width: 70%;
+    height: 35px;
+    outline: none;
+    border: none;
+}
+
+.bg-blue .search {
+    width: auto;
+    height: 35px;
+    padding: 10px 20px;
+    background: #9ad2d2;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #fff;
+}
+
+.advanced,
+.bg-blue-btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0;
+}
+
+.advanced h3,
+.bg-blue-btn h3 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.advanced p {
+    text-align: center;
+    margin: 0;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    white-space: wrap;
+    padding: 0 40px;
+    position: relative;
+    line-height: 25px;
+}
+
+.card > div {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;  
+}
+
+.card > div img {
+    position: absolute;
+    margin-top: -55px;
+    background: #2a2f56;
+    padding: 10px;
+    border-radius: 50%;
+    width: 50px;
+}
+
+.card > div h5 {
+    font-size: 18px;
+}
+
+.card hr {
+    border: 4px solid#18d5d5;
+    width: 5%; 
+}
+
+.card div:nth-child(3) {
+    margin-top: 50px;
+}
+.card div:nth-child(1) {
+    margin-top: 100px;
+}
+
+.bg-blue-btn {
+    background: #4b406b;
+    margin: 30px 0 0 0;
+    color: #fff;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+    background: #000;
+    color: #fff;
+}
+
+footer ul{
+    list-style: none;
+    text-align: left;
+    padding: 10px;   
+}
+
+
+footer ul li {
+    margin: 0 0 15px 0;
+}
+
+footer ul li a {
+    color: #fff;
+}
+
+
+
+
+
+
+

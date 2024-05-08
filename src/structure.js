@@ -207,3 +207,65 @@ icon
 //                         h2
 //                         h5
 //                         p
+
+7.
+//     <div>
+//     <nav>
+//         <a>logo</a>
+//         <ul>
+//             <li>
+//                 <a></a></li>
+//                 <li><a></a></li>
+//                 <a></a>
+//                 <a></a>
+// 
+//         </ul>
+
+//         <div>
+//             <a></a>
+//             <button></button>
+//         </div>
+//     </nav>
+
+//     <header>
+//       <div>
+//         <h1></h1>
+//         <p></p>
+//         <button></button>
+ //           </div>
+//         <div>
+//             <img></img>
+//         </div>
+//     </header>
+//  <div>
+//     <input></input>
+//     <button></button>
+//  </div> 
+
+//  <div>
+// <h3>
+// <p></div> 
+
+// <div>
+// <div>
+// <img>
+// <h4>
+// <p>
+// <div>
+// <img>
+// <h4>
+// <p>
+// <div>
+// <img>
+// <h4>
+// <p>
+
+// div
+// h4
+// button
+// footer
+// p
+// links
+// icons
+// </div>
+

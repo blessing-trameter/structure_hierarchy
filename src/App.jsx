@@ -4,6 +4,7 @@ import CardOne from './component/CardOne'
 import CardThree from './component/CardThree'
 import CardTwo from './component/CardTwo'
 import HomePage from './component/HomePage'
+import Shortly from './component/Shortly'
 
 function App() {
 
@@ -13,7 +14,8 @@ function App() {
      {/* <CardTwo/> */}
      {/* <CardThree/> */}
      {/* <CardFour/> */}
-     <HomePage/>
+     {/* <HomePage/> */}
+     <Shortly />
     </>
   )
 }
